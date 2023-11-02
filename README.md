@@ -15,3 +15,5 @@ its simple now dicscord rich presence is supported in mta sa
 (https://github.com/multitheftauto/mtasa-blue/commit/fdaa3aca3e233c7aba69d0fd5f85e78288a4401a)
 i was thinking about making an external launcher integrated with mta sa but with an discord rpc to show what server u are currently playing on 
 name / players are fetched with (https://mtasa.com/api/)
+# Useless :)
+Credits starboy_swag
