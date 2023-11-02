@@ -5,4 +5,4 @@ idk it might be useful
 # Whats the point ? 
 its simple now dicscord rich presence is supported from mta sa 
 i was thinking about making an external launcher integrated with mta sa but with an discord rpc to show what server u are currently playing on 
-name / players are fetched with mtasaapi.com
+name / players are fetched with [mtasaapi.com](https://mtasa.com/api/)https://mtasa.com/api/
